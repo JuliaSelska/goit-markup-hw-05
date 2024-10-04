@@ -692,6 +692,9 @@ img {
   fill: #4d5ae5;
 }
 
+.contact-form-field-form-first {
+  margin-bottom: 8px;
+}
 .contact-form-field-form {
   margin-bottom: 16px;
 }
