@@ -692,11 +692,12 @@ img {
   fill: #4d5ae5;
 }
 
-.contact-form-field-form-first {
-  margin-bottom: 8px;
-}
-.contact-form-field-form {
+.contact-form-field-form :last-child {
   margin-bottom: 16px;
+}
+
+.contact-form-field-form:not(:last-child) {
+  margin-bottom: 8px;
 }
 
 .contact-form-input-icon {
