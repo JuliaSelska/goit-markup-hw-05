@@ -751,7 +751,7 @@ img {
 }
 
 .contact-form-checkbox:checked
-  + .contact-form-field-label
+  + .contact-form-checkbox-label
   > .contact-form-checkbox-custom {
   background-color: #404bbf;
   border: none;
