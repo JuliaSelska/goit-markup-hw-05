@@ -733,7 +733,7 @@ img {
   color: rgb(46, 47, 66 0, 4);
 }
 
-.contact-form-coment:focus {
+.contact-form-comment:focus {
   outline: none;
   border-color: #4d5ae5;
 }
